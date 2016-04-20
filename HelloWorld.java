@@ -3,4 +3,5 @@
 
 print("hello world!");
 print("少年，你好！");
+print("要做多少好事才能做一只傲娇的猫咪？");
 
